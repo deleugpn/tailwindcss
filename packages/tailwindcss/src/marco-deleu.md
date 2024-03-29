@@ -26,7 +26,7 @@ my family and my profession.
 Another huge exciting thing about this is
 working closely with the best players in
 software engineering in the world. Adam
-and Taylor has completely changed the lives
+(similar to Taylor) has completely changed the lives
 of a lot of humans and has changed the direction
 of software engineering. It doesn't matter
 whether you hate or love Tailwind or Laravel,
